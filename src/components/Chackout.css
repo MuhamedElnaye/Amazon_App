@@ -1,0 +1,22 @@
+.chackout {
+  display: flex;
+  padding: 20px;
+  background-color: white;
+  height: max-content;
+}
+.chackout-ad {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.chackout-title {
+  margin-right: 15px;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
+.no-item {
+  margin-top: 20px;
+}
+.no-item span {
+  color: rgb(15, 231, 130);
+}
